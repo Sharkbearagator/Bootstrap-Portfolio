@@ -9,6 +9,8 @@ body{
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
+    padding-bottom: 42px;
+    margin: 0px;
 }
 .h1-2{
     color: #4aaaa5;
@@ -18,4 +20,7 @@ h2{
 }
 .row-2{
     background-color: #666666;
+}
+.col-md-8{
+    padding-right: 650px;
 }
