@@ -19,8 +19,10 @@ h2{
 .jumbotron{
     background-color: white;
 }
-.row-2{
+#footer{
     background-color: #666666;
+    text-align: center;
+    padding: 20px;
 }
 .col-md-8{
     padding-right: 650px;
