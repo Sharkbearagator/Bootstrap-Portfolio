@@ -9,3 +9,6 @@ $("#project-1").on("click",function(){
 $("#trivia").on("click",function(){
     window.open("https://sharkbearagator.github.io/TriviaGame/") 
 });
+$("#project-2").on("click",function(){
+    window.open("https://bitmap-app.herokuapp.com/") 
+});
