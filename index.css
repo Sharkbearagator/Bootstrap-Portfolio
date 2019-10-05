@@ -23,9 +23,6 @@ h2{
     padding: 20px;
     color: #fcef41
 }
-.col-md-8{
-    padding-right: 650px;
-}
 .card-text{
     color: #265A76;
     background-color: #fcef41;
@@ -35,7 +32,7 @@ h2{
     color: #fcef41
 }
 a{
-    color: black;
+    color: #F09F1B;
 }
 .container-github{
  display: flex;
@@ -43,10 +40,10 @@ a{
 }
 .card-text-2{
     align-content: center;
-    color: black;
+    color: #265A76;
 }
 #card-title{
-    color: black
+    color: #265A76
 }
 #Me{
     margin-bottom: 5%;
