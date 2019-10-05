@@ -1,26 +1,27 @@
 body{
-    background-color: lightgray;
+    background-color: #F09F1B;
     size: 960px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto Mono', monospace;
 }
 .row{
-    background-color: white;
+    background-color: #265978;
     margin-bottom: 100px; 
 }
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #4aaaa5;
+    background-color: #fcef41;
     padding-bottom: 42px;
     margin: 0px;
 }
 .h1-2{
-    color: #4aaaa5;
+    color: #db5e38;
 }
 .jumbotron{
-    background-color: white;
+    background-color: #265A76;
+    align-content: center
 }
 #footer{
-    background-color: #666666;
+    background-color: #265978;
     text-align: center;
     padding: 20px;
 }
@@ -28,15 +29,35 @@ h2{
     padding-right: 650px;
 }
 .card-text{
-    color: white;
-    background-color: #4aaaa5;
+    color: black;
+    background-color: #fcef41;
     margin-top: 150px;
 }
 .nav-link{
-    color: blue
+    color: #fcef41
 }
 a{
-    color: white;
+    color: black;
+}
+.container-github{
+ display: flex;
+ justify-content: center
+}
+.card-text-2{
+    align-content: center;
+    color: black;
+}
+#card-title{
+    color: black
+}
+#Me{
+    margin-bottom: 5%;
+    height: 500px;
+    width: 500px;
+    
+}
+.container-pic{
+    justify-content: center;
 }
 @media (min-width: 576px) and (max-width: 767.98px) {
     [class*="col-"] {
