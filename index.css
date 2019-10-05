@@ -8,10 +8,7 @@ body{
     margin-bottom: 100px; 
 }
 h2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #fcef41;
-    padding-bottom: 42px;
-    margin: 0px;
+   color: #fcef41;
 }
 .h1-2{
     color: #db5e38;
@@ -24,12 +21,13 @@ h2{
     background-color: #265978;
     text-align: center;
     padding: 20px;
+    color: #fcef41
 }
 .col-md-8{
     padding-right: 650px;
 }
 .card-text{
-    color: black;
+    color: #265A76;
     background-color: #fcef41;
     margin-top: 150px;
 }
